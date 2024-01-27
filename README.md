@@ -1,6 +1,6 @@
 # Book-Recommender-System
 
-Welcome to my Book Recommender Web-App!
+Welcome to our Book Recommender Web-App!
 
 Are you in search of your next captivating read? This application is here to assist! A clever system is utilized to analyze your preferences in a book. Aspects such as plot, characters, and themes that truly engage you are taken into consideration. Subsequently, book recommendations are provided that align with your tastes.
 
