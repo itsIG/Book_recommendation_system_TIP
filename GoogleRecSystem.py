@@ -463,7 +463,7 @@ st.markdown('<hr style="border: 2px solid #ddd;">', unsafe_allow_html=True)
 st.markdown(
     """
     <div style="text-align: center; padding: 10px;">
-        Developed by Parth, Tushar, Ishaan
+        Developed by Parth, Ishaan
     </div>
     """,
     unsafe_allow_html=True
